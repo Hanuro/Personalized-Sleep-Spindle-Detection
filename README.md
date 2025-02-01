@@ -34,7 +34,6 @@ To get started with this project:
    ```bash
    pip install -r requirements.txt
    ```
-   *(Note: The `requirements.txt` file is assumed to list all necessary packages.)*
 
 3. **Run the Jupyter Notebook**:
    Launch the notebook to explore the analysis and results:
